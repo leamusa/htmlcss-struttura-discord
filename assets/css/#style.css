@@ -48,7 +48,7 @@ header {
     align-items: center;
     height: auto;
 }
-.uno{ 
+.one{ 
     background-color: #00008b;
     border: 1px #000000 solid;
     padding: 10px;
@@ -56,32 +56,32 @@ header {
 
 }
 
-.due{
+.two{
     background-color: white;
     border: 1px rgb(0, 0, 0) solid;
     padding: 10px;
     height: 200px;
 }
-.tre{
+.three{
     background-color: #d3d3d3;
     border: 1px rgb(0, 0, 0) solid;
     padding: 10px;
     height: 200px;
 }
-.quattro{ 
+.four{ 
     background-color: white;
     border: 1px rgb(0, 0, 0) solid;
     padding: 10px;
     height: 200px;
 }
-.cinque{ 
+.five{ 
     background-color: #d3d3d3;
     border: 1px rgb(0, 0, 0) solid;
     padding: 10px;
     height: 300px;
 
 }
-.sei{
+.six{
     background-color: #23272a;
     border: 1px rgb(0, 0, 0) solid;
     padding: 10px;
@@ -94,12 +94,12 @@ footer {
     height: 50px;
 
 }
-.unouno{
+.oneone{
     background-color: #ee82ee;
     height: 100px;
     padding: auto;
 }
 
-.duedue{
+.twotwo{
     background-color: #1e90ff;
 }
