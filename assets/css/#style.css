@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #add8e6;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+    background-color: #daa520;
+    align-items: center;
+    
+    display: flex;
+    justify-content: space-between;
+
+    width: 75%;
+
+
+}
+.logo{ 
+    border: 1px rgb(0, 0, 0) dashed;
+    padding: 2px;
+    width: 20%;
+
+}
+
+.link{
+    border: 1px rgb(0, 0, 0) dashed;
+    padding: 2px;
+    width: 60%
+
+}
+.login{ 
+    border: 1px rgb(0, 0, 0) dashed;
+    padding: 2px;
+    width: 20%;
+}
+
+
+.containers{
+    justify-content: flex-start;
+    background-color: orange;
+    align-items: center;
+    height: auto;
+}
+.uno{ 
+    background-color: #00008b;
+    border: 1px #000000 solid;
+    padding: 10px;
+    height: 200px;
+
+}
+
+.due{
+    background-color: white;
+    border: 1px rgb(0, 0, 0) solid;
+    padding: 10px;
+    height: 200px;
+}
+.tre{
+    background-color: #d3d3d3;
+    border: 1px rgb(0, 0, 0) solid;
+    padding: 10px;
+    height: 200px;
+}
+.quattro{ 
+    background-color: white;
+    border: 1px rgb(0, 0, 0) solid;
+    padding: 10px;
+    height: 200px;
+}
+.cinque{ 
+    background-color: #d3d3d3;
+    border: 1px rgb(0, 0, 0) solid;
+    padding: 10px;
+    height: 300px;
+
+}
+.sei{
+    background-color: #23272a;
+    border: 1px rgb(0, 0, 0) solid;
+    padding: 10px;
+    height: 200px;
+    
+}
+
+footer {
+    background-color: #23272a;
+    height: 50px;
+
+}
+.unouno{
+    background-color: #ee82ee;
+    height: 100px;
+    padding: auto;
+}
+
+.duedue{
+    background-color: #1e90ff;
+}
